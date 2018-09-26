@@ -1,11 +1,11 @@
 # Site settings
 author: David Gilbert
-title: David's Awesome Coding Blog
+title: Coding, Mostly
 header-img: img/home-bg.png
 email: dagilbert333@gmail.com
 copyright_name: David Gilbert
 description: > # this means to ignore newlines until "baseurl:"
-  Kick off your shoes and relax your feet!
+  welcome
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dagilbert333
