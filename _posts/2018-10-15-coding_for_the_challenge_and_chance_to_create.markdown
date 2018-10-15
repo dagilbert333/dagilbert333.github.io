@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Coding for the Challenge and Chance to Create"
-date:       2018-10-15 18:00:05 +0000
+date:       2018-10-15 14:00:06 -0400
 permalink:  coding_for_the_challenge_and_chance_to_create
 ---
 
