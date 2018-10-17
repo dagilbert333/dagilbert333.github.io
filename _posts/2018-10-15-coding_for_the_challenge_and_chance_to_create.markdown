@@ -5,9 +5,9 @@ date:       2018-10-15 14:00:06 -0400
 permalink:  coding_for_the_challenge_and_chance_to_create
 ---
 
-I've always loved working with computers, so I chose CIS for my major in college. As a part of the curriculum, I was required to take an object-oriented programming course using C++... and absolutely *hated it*. I barely got out of that class with a "C" and decided that programming wasn't my cup of tea. 
+I've always loved working with computers, so I chose CIS for my major in college. As a part of the curriculum, I was required to take an object-oriented programming course in C++... and absolutely *hated it*. After the class was finished I decided  programming wasn't for me. 
 
-Fast-forward to a couple of years ago, and I was thinking about what I could do to expand my skill set, because even though I was excelling in my current field, I felt like I wasn't being challenged enough. I became interested in learning how to build websites, since I'd always found HTML and CSS to be pretty easy to understand. I decided to take a web development course on Codecademy. 
+Fast forward to a couple of years ago, and I was thinking about what I could do to expand my skill set, because even though I was excelling in my current field, I felt like I wasn't being challenged enough. I became interested in learning how to build websites, since I'd always found HTML and CSS to be pretty easy to understand. I decided to take a web development course on Codecademy. 
 
 This was the first time I actually delved into online learning for myself, and I breezed through the material, boosting my confidence with every concept learned and challenge passed. Upon finishing that program, and with the wind at my back, I decided to try out other languages through online learning platforms like Udemy, KhanAcadmy, and Treehouse. 
 
