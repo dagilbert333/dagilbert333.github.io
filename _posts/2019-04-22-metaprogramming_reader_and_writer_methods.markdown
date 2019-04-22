@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Metaprogramming Reader and Writer Methods"
-date:       2019-04-22 05:06:57 +0000
+date:       2019-04-22 01:06:58 -0400
 permalink:  metaprogramming_reader_and_writer_methods
 ---
 
@@ -19,8 +19,8 @@ class Dog
 end
 ```
 
-**Build out our own reader and writer methods with metaprogramming.
-**
+**Build out our own reader and writer methods with metaprogramming.**
+
 ```
 class Dog
 
